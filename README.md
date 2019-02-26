@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/gojektech/probed.svg?branch=master)](https://travis-ci.org/gojekfarm/probed)
 
+[![codecov.io](http://codecov.io/github/gojektech/probed/coverage.svg?branch=master)](http://codecov.io/github/gojektech/probed?branch=master)
+
 ## Description
 
 ProbeD is a transparent health checker service which sits beside a loadbalancer and dynamically remove the upstream services for which health checks fails, Probed is scalable and check health checks asynchronously.
